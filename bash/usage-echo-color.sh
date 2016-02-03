@@ -4,9 +4,9 @@
 
 . echo-color.sh
 
-echo -e ${RED}red color $END_COLOR
-echo -e ${GREEN}green color $END_COLOR
-echo -e ${MAGENTA}magenta color $END_COLOR
-echo -e ${LIGHT_RED}light red color $END_COLOR
-echo -e ${BLUE}blue color $END_COLOR
-echo -e ${GRAY}gray color $END_COLOR
+${ECHO_RED}red color $END_COLOR
+${ECHO_GREEN}green color $END_COLOR
+${ECHO_MAGENTA}magenta color $END_COLOR
+${ECHO_LIGHT_RED}light red color $END_COLOR
+${ECHO_BLUE}blue color $END_COLOR
+${ECHO_GRAY}gray color $END_COLOR
